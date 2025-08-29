@@ -15,4 +15,4 @@ A Python password generator built to improve my Python skills and share my learn
 - File I/O operations
 
 ## Status
-Initial planning completed. Beginning core functionality implementation.
+Beginning core functionality implementation.
