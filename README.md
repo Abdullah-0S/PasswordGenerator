@@ -5,6 +5,7 @@ A Python password generator built to improve my Python skills and share my learn
 ## Features
 - Secure random password generation with customizable length ✅
 - Character type selection (uppercase, numbers, symbols) ✅
+- Exclude given characters e.g($, /, 0, a, A)✅
 - Save password to a file
 - Command-line interface
 
